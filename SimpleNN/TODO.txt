@@ -1,0 +1,7 @@
+﻿Abstract training data to allow dynamic loading
+
+rprop
+
+learning momentum
+
+refactor new weight calculataion/assignment

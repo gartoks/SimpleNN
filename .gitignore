@@ -300,3 +300,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+SimpleNN.sln
+SimpleNN/App.config
+SimpleNN/packages
+.vs
+
+SimpleNNTests/packages.config
+SimpleNNTests/Properties/AssemblyInfo.cs
+SimpleNNTests/SimpleNNTests.csproj
+SimpleNN/SimpleNN.csproj
+SimpleNN/Properties/AssemblyInfo.cs
